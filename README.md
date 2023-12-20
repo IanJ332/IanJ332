@@ -40,6 +40,6 @@ I'm a junior student who is very passionate about AI learning projects. Currentl
 
 ## :mailbox: Contact
 
-**My Linkedin page:**[Jisheng Jiang](https://www.linkedin.com/in/jisheng-jiang-721974252/)
+**My Linkedin page:** [Jisheng Jiang](https://www.linkedin.com/in/jisheng-jiang-721974252/)
 
 **My Email:** jiangjs03@gmail.com
