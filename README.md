@@ -1,4 +1,3 @@
-"# Ian332niubi" 
 # :wave: Hi there, I'm Jisheng (Ian)!
 
 I'm a junior student who is very passionate about AI learning projects. Currently, I'm working on a software for an AI companion and looking forward to the release of our results. If you have a good project or want to get in touch with me, my contact information is below.
