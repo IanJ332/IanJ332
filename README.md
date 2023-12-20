@@ -21,7 +21,7 @@ I'm a junior student who is very passionate about AI learning projects. Currentl
 ## :trophy: Experience & Activities
 
 **Vice President, SJSU Chinese Students Association** (2020 - Present)
-- :team: Led a team of 50+ staff members in organizing and executing events, including cross-university collaborations with Santa Clara University and Stanford
+- :muscle: Led a team of 50+ staff members in organizing and executing events, including cross-university collaborations with Santa Clara University and Stanford
 
 **Volunteer, San Jose Animal Care Center** (2021 - Present)
 - :truck: Facilitated transportation of animals and supplies among shelters, foster homes, and veterinary clinic
