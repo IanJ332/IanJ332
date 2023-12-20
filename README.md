@@ -38,6 +38,6 @@
 
 ## Contact
 
-**GitHub:** CaliCastle
+[Linkedin](https://www.linkedin.com/in/jisheng-jiang-721974252/)
 
 **Email:** jiangjs03@gmail.com
