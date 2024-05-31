@@ -1,44 +1,22 @@
-# :wave: Hi there, I'm Jisheng (Ian)!
+<h1 align="center">Hi 👋, I'm Ian JiANG</h1>
+<h3 align="center">Jisheng Jiang</h3>
 
-I'm a junior student who is very passionate about AI learning projects. Currently, I'm working on a software for an AI companion and looking forward to the release of our results. If you have a good project or want to get in touch with me, my contact information is below.
+- 🌱 I’m currently learning **C, C++, python**
 
-## :briefcase: Work Experiences
+- 📫 How to reach me **jiangjs03@gmail.com**
 
-### :office: Tripalink, Los Angeles, CA
-**Software Engineering Intern** (June 2023 - August 2023)
-- :gear: Designed and implemented a new GraphQL API to process new apartment rental applications in an AI-driven rental recommendation project
-- :clipboard: Devised and executed end-to-end test plan, collaborating with QA to ensure timely feature launch
-- :floppy_disk: Created and executed migration scripts to update and optimize the existing SQL database schema
-- :snake: Developed Python scripts for data team, achieving an over 80% reduction in manual operations by automating cleanup and processing data from various sources
-- :iphone: Led the testing of a new mobile application used by property managers to control access to apartments; worked with end users and PM extensively to identify operational issues and proposed solutions
+- 📄 Know about my experiences [https://docs.google.com/document/d/1UWHUVMSUHGdj_Qy9eERZWDAPh4XMLlzg/edit?usp=sharing&ouid=103718275853915503424&rtpof=true&sd=true](https://docs.google.com/document/d/1UWHUVMSUHGdj_Qy9eERZWDAPh4XMLlzg/edit?usp=sharing&ouid=103718275853915503424&rtpof=true&sd=true)
 
-### :rabbit: Rabbit Haven, Santa Cruz, CA
-**Volunteer Software Engineer** (December 2022 - Present)
-- :computer: Managed animal’s online profile and created workflow to ensure the information is up to date
-- :memo: Created web-based tools to replace paper documents and reduce administrative efforts
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jisheng jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jisheng jiang" height="30" width="40" /></a>
+</p>
 
-## :trophy: Experience & Activities
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**Vice President, SJSU Chinese Students Association** (2020 - Present)
-- :muscle: Led a team of 50+ staff members in organizing and executing events, including cross-university collaborations with Santa Clara University and Stanford
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianj332&show_icons=true&locale=en&layout=compact" alt="ianj332" /></p>
 
-**Volunteer, San Jose Animal Care Center** (2021 - Present)
-- :truck: Facilitated transportation of animals and supplies among shelters, foster homes, and veterinary clinic
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianj332&show_icons=true&locale=en" alt="ianj332" /></p>
 
-## :wrench: Technical Skills
-
-**Languages:** Java, Python, JavaScript, GraphQL, SQL, HTML, CSS
-
-**Technologies:** Git, Postman, Jenkins, AWS (EC2 / RDS / S3), Linux
-
-**Tools:** Eclipse, VSCode, IntelliJ, Jira, Figma, DataGrip
-
-## :mortar_board: Education
-
-**San Jose State University, San Jose, CA** (September 2021 - June 2025, Expected)
-
-## :mailbox: Contact
-
-**My Linkedin page:** [Jisheng Jiang](https://www.linkedin.com/in/jisheng-jiang-721974252/)
-
-**My Email:** jiangjs03@gmail.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianj332&" alt="ianj332" /></p>
