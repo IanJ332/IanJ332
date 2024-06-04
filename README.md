@@ -91,18 +91,6 @@
   </a>
 </p>
 
-<h3 align="left">Communication Tools:</h3>
-<p align="left">
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> 
-  </a>
-  <a href="https://www.google.com/drive/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google drive" width="40" height="40"/> 
-  </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="40" height="40"/> 
-  </a>
-</p>
-
 <h3 align="left">Hardware:</h3>
 <p align="left">
   Designed PCBs for custom keyboards, with MIPS assembly programming experience.
