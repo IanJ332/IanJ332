@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Jiang</h1>
-<h3 align="center">Jisheng Jiang</h3>
+<h3 align="center">Ian Jiang</h3>
 
 - 🌱 I’m currently learning **C, C++, Python**
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
