@@ -5,6 +5,9 @@
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
 - 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1UWHUVMSUHGdj_Qy9eERZWDAPh4XMLlzg/edit?usp=sharing&ouid=103718275853915503424&rtpof=true&sd=true)
 
+- 🔍 I’m currently exploring and developing a software for **Counter Strike**.
+- 🔬 Recently, I've been delving into algorithms.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jisheng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jisheng jiang" height="30" width="40" /></a>
@@ -67,6 +70,9 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a>
+  <a href="https://student.cs.uwaterloo.ca/~cs241/mips/mipsasm.html" target="_blank" rel="noreferrer">
+    <img src="https://play-lh.googleusercontent.com/r78ahXilgCFsgCHi0UQYbNkq7suI0HtF4uCpjR_c0dJ5YOQgOe6SuJ8OlV0G5gIRupM" alt="mips" width="40" height="40"/> 
+  </a>
 </p>
 
 <h3 align="left">Development Tools:</h3>
@@ -88,17 +94,16 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-static.altium.com/themes/custom/altium_designer_new/html/dist/images/logo-ad-black.svg" alt="altium designer" width="40" height="40"/> 
   </a>
 </p>
 
 <h3 align="left">Hardware:</h3>
 <p align="left">
-  Designed PCBs for custom keyboards, with MIPS assembly programming experience.
+  I have experience designing PCBs for custom keyboards, building servers, and working with MIPS assembly programming. I also have a basic understanding of electrical engineering principles.
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianj332&show_icons=true&locale=en&layout=compact" alt="ianj332" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianj332&show_icons=true&locale=en" alt="ianj332" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianj332&" alt="ianj332" /></p>
-    
