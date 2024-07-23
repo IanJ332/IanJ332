@@ -5,7 +5,7 @@
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
 - 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1UWHUVMSUHGdj_Qy9eERZWDAPh4XMLlzg/edit?usp=sharing&ouid=103718275853915503424&rtpof=true&sd=true)
 
-- 🔍 I’m currently exploring and developing a software for **Counter Strike**.
+- 🚧 I’m currently exploring and developing a software for **Counter Strike**.
 - 🔬 Recently, I've been delving into algorithms.
 
 <h3 align="left">Connect with me:</h3>
