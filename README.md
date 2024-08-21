@@ -5,8 +5,8 @@
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
 - 📄 Know about my experiences [Google Docs](https://drive.google.com/file/d/1BzDAJgFk1eil1kp6wpwWfgpApZhEMnFN/view?usp=sharing)
 
-- 🔍 Working on modifying the V9 version of **Google Cam** and doing the associated Config.
-- 🔬 Recently, I've been delving into algorithms.
+- 🔍 Working on modifying the V9 version of **Google Cam** and doing the associated Config, and fine-tuning my own AI product Bob
+- 🔬 Recently, I've been delving into algorithms & AI tuning(LLaMA3.1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
