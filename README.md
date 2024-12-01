@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **C, C++, Python**
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
-- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1UWHUVMSUHGdj_Qy9eERZWDAPh4XMLlzg/edit?usp=sharing&ouid=103718275853915503424&rtpof=true&sd=true)
+- 📄 Know about my experiences [Google Docs](https://drive.google.com/file/d/1BzDAJgFk1eil1kp6wpwWfgpApZhEMnFN/view?usp=sharing)
 
-- 🔍 Working on modifying the V9 version of **Google Cam** and doing the associated Config.
+- 🔍 Working on enhancing performance my personal Large Language Model based on Llama3.2.
 - 🔬 Exploring **Neural Systems** and **Advanced Machine Learning**.
 
 <h3 align="left">Connect with me:</h3>
