@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ian Jiang</h1>
 <h3 align="center">Ian Jiang</h3>
+<h3 align="center">BTW, Click below to check out my webpage</h3>
 
-[![N|Solid](https://github.com/IanJ332/github.io/blob/main/src/assets/images/welcomepage.jpg)](https://ianj332.github.io/github.io/)
+[![N|Solid](https://github.com/IanJ332/github.io/blob/main/src/assets/images/welcomepage.png)](https://ianj332.github.io/github.io/)
 
 - 🌱 I’m currently learning **C, C++, Python**
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
