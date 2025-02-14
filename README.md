@@ -2,7 +2,7 @@
 <h3 align="center">Ian Jiang</h3>
 <h3 align="center">BTW, Click below to check out my webpage</h3>
 
-
+[![N|Solid](https://raw.githubusercontent.com/IanJ332/github.io/refs/heads/main/src/assets/images/welcomepage.png)](https://ianj332.github.io/github.io/)
 
 - 🌱 I’m currently learning **C, C++, Python**
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
