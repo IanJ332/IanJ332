@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python**
 - 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
-- 📄 Know about my experiences [Google Docs](https://drive.google.com/file/d/1LWvYgkYbMujArbqPk4KPg-zBK91V5-uk/view?usp=sharing)
+- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1yrglC2t_N3cmHynpnJIEEMgTzQCT1dnE/edit?usp=sharing&ouid=101394313717373378415&rtpof=true&sd=true)
 
 - 🔍 Working on enhancing performance my personal Large Language Model based on Llama3.2.
 - 🔬 Exploring **Neural Systems** and **Advanced Machine Learning**.
