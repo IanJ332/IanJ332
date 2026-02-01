@@ -1,115 +1,48 @@
 <h1 align="center">Hi 👋, I'm Ian Jiang</h1>
-<h3 align="center">Ian Jiang</h3>
-<h3 align="center">BTW, Click below to check out my webpage</h3>
-
-[![N|Solid](https://raw.githubusercontent.com/IanJ332/github.io/refs/heads/main/src/assets/images/welcomepage.png)](https://ianj332.github.io/)
-
-- 🌱 I’m currently learning **C, C++, Python**
-- 📫 How to reach me [My email](mailto:jiangjs03@gmail.com)
-- 📄 Know about my experiences [Google Docs](https://docs.google.com/document/d/1yrglC2t_N3cmHynpnJIEEMgTzQCT1dnE/edit?usp=sharing&ouid=101394313717373378415&rtpof=true&sd=true)
-
-- 🔍 Working on enhancing performance my personal Large Language Model based on Llama3.2.
-- 🔬 Exploring **Neural Systems** and **Advanced Machine Learning**.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jisheng-jiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jisheng jiang" height="30" width="40" /></a>
+<p align="center">
+  <strong>Master of Computer Science @ UIUC</strong> | <strong>Co-founder @ CollegeBot.ai</strong> | <strong>Full-Stack & ML Engineer</strong>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="xml" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="https://ianj332.github.io/">Portfolio Website 🌐</a> • 
+  <a href="https://linkedin.com/in/jisheng-jiang">LinkedIn 💼</a> • 
+  <a href="mailto:jiangjs03@gmail.com">Email ✉️</a>
 </p>
 
-<h3 align="left">Technologies:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://student.cs.uwaterloo.ca/~cs241/mips/mipsasm.html" target="_blank" rel="noreferrer">
-    <img src="https://play-lh.googleusercontent.com/r78ahXilgCFsgCHi0UQYbNkq7suI0HtF4uCpjR_c0dJ5YOQgOe6SuJ8OlV0G5gIRupM" alt="mips" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-5.9K%2B-FAD02C?style=for-the-badge&logo=github&labelColor=333" alt="Total Stars">
 </p>
 
-<h3 align="left">Development Tools:</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs code" width="40" height="40"/> 
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/> 
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-static.altium.com/themes/custom/altium_designer_new/html/dist/images/logo-ad-black.svg" alt="altium designer" width="40" height="40"/> 
-  </a>
+### 🛡️ Key Impact & Core Competencies
+- 🎓 **Academic**: I've recently been conducting research on the distribution of backend AI resources.
+- 🚀 **Entrepreneurial Success**: Co-founded **[CollegeBot.ai](https://collegebot.ai/)**. It has now been renamed **[Video Tutor](https://videotutor.io/)**. 
+- 🏗️ **Engineering Discipline**: I also have some knowledge of back-end systems [RDBMS, MongoDB, Redis, DynamoDB, Cassandra, Apache, Neo4j]. Developed full-stack applications and Android applications. I once developed a project that heavily modified Google Camera, but later abandoned it after Google Camera integrated built-in components for galaxy tracking and photography.
+- 🔬 **ML Research**: Past experience includes but is not limited to Fine-tuning, RAG, Prompt Engineering, and research on MAD and confidence scores. Contributed to the development of GeoAI, BioAI, and VisionaryAI projects. Worked on model development for visual and audio models.
+
+---
+
+### 🛠️ Full-Spectrum Tech Stack
+
+| Category | Icons / Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="sql" width="30"/> |
+| **Frontend & Mobile** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="30"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="30"/> |
+| **Backend & Data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="30"/> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30"/> |
+| **Advanced Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="30"/> |
+| **DevOps & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30"/> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="30"/> |
+| **AI/ML & Workflow** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30"/> |
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IanJ332&theme=transparent&hide_border=true" alt="Ian's Streak" />
 </p>
 
-<h3 align="left">Hardware:</h3>
-<p align="left">
-  I have experience designing PCBs for custom keyboards, building servers, and working with MIPS assembly programming. I also have a basic understanding of electrical engineering principles.
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianj332&show_icons=true&locale=en&layout=compact" alt="ianj332" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianj332&" alt="ianj332" /></p>
+### I'd love for everyone to connect with me! Or feel free to discuss any projects with me. Once again, I'm incredibly grateful to all the friends who've helped me along the way!
+  
+</div>
