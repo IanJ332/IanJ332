@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://ianj332.github.io/">Portfolio Website 🌐</a> • 
   <a href="https://linkedin.com/in/jisheng-jiang">LinkedIn 💼</a> • 
-  <a href="mailto:jiangjs03@gmail.com">Email ✉️</a>
+  <a href="mailto:jiangjs03@gmail.com">Email 📧</a>
 </p>
 
 <p align="center">
