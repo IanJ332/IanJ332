@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-5.9K%2B-FAD02C?style=for-the-badge&logo=github&labelColor=333" alt="Total Stars">
+  <img src="https://img.shields.io/badge/Total%20Stars-7.8K%2B-FAD02C?style=for-the-badge&logo=github&labelColor=333" alt="Total Stars">
 </p>
 
 ### 🛡️ Key Impact & Core Competencies
