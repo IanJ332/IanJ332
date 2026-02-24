@@ -9,7 +9,9 @@
   <a href="mailto:jiangjs03@gmail.com">Email 📧</a>
 </p>
 
-<img src="https://img.shields.io/endpoint?url=https://ianj332.github.io/stars.json&style=for-the-badge&logo=github" alt="Total Stars">
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://ianj332.github.io/stars.json?cache_bust=1&style=for-the-badge&logo=github" alt="Total Stars">
+</p>
 
 ### 🛡️ Key Impact & Core Competencies
 - 🎓 **Academic**: I've recently been conducting research on the distribution of backend AI resources.
