@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/endpoint?url=https://ianj332.github.io/stars.json?cache_bust=1&style=for-the-badge&logo=github" alt="Total Stars">
 </p>
 
-
 ### 🛡️ Key Impact & Core Competencies
 - 🎓 **Academic**: I've recently been conducting research on the distribution of backend AI resources.
 - 🚀 **Entrepreneurial Success**: Co-founded **[CollegeBot.ai](https://collegebot.ai/)**. It has now been renamed **[Video Tutor](https://videotutor.io/)**. 
