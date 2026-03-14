@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sickn33/antigravity-awesome-skills"><img src="https://img.shields.io/badge/GitHub_Stars-18.5k-2ea44f?style=for-the-badge&logo=github" alt="Github Stars"></a>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Stars-24.1k-2ea44f?style=for-the-badge&logo=github" alt="Github Stars">&nbsp;
   <a href="https://ianj332.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>&nbsp;
   <a href="https://linkedin.com/in/jisheng-jiang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:jiangjs03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
