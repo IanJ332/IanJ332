@@ -1,45 +1,115 @@
 <h1 align="center">Hi 👋, I'm Ian Jiang</h1>
+
 <p align="center">
-  <strong>Master of Computer Science @ UIUC</strong> | <strong>Co-founder @ CollegeBot.ai</strong> | <strong>Full-Stack & ML Engineer</strong>
+  <strong>Software Engineer · Backend Systems · AI Infrastructure · Full Stack</strong><br/>
+  MCS @ UIUC · Software Engineer Intern @ The Paddock · Graduate Research Assistant @ Alawini Lab @ Illinois
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Stars-38k-2ea44f?style=for-the-badge&logo=github" alt="Github Stars">&nbsp;
-  <a href="https://ianj332.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>&nbsp;
-  <a href="https://linkedin.com/in/jisheng-jiang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:jiangjs03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/sickn33/agentic-awesome-skills">
+    <img src="https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=for-the-badge&logo=github&label=AAS%20Stars&color=2ea44f" alt="Agentic Awesome Skills Stars">
+  </a>&nbsp;
+  <a href="https://ianj332.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/jisheng-jiang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="https://huggingface.co/Ian332">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>&nbsp;
+  <a href="mailto:jiangjs03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-### 🛡️ Key Impact & Core Competencies
-- 🎓 **Academic**: I've recently been conducting research on the distribution of backend AI resources.
-- 🚀 **Entrepreneurial Success**: Co-founded **[CollegeBot.ai](https://collegebot.ai/)**. It has now been renamed **[Video Tutor](https://videotutor.io/)**. 
-- 🏗️ **Engineering Discipline**: I also have some knowledge of back-end systems [RDBMS, MongoDB, Redis, DynamoDB, Cassandra, Apache, Neo4j]. Developed full-stack applications and Android applications. I once developed a project that heavily modified Google Camera, but later abandoned it after Google Camera integrated built-in components for galaxy tracking and photography.
-- 🔬 **ML Research**: Past experience includes but is not limited to Fine-tuning, RAG, Prompt Engineering, and research on MAD and confidence scores. Contributed to the development of GeoAI, BioAI, and VisionaryAI projects. Worked on model development for visual and audio models.
+---
+
+### ⚡ Selected Engineering Impact
+
+* 🏗️ **Backend Systems & Reliability** — Engineering production data paths at **The Paddock** across PostgreSQL/Supabase and Flutter/Dart, including concurrency-safe keyset pagination, database-side aggregation, authorization testing, and query-path optimization. Reduced network egress by **99.7%** and average leaderboard RPC latency from **~2.1 s to 6–11 ms**.
+
+* 🤖 **AI Infrastructure** — Built stateful LLM infrastructure across the **CollegeBot / VideoTutor** product line using vector retrieval, persistent context, model/query routing, and index-refresh pipelines; supported a product that reached **30K+ global DAU** and reduced model API costs by **30%**.
+
+* 🌐 **Distributed Inference Research** — First author of **[GrayPulse](https://github.com/IanJ332/GrayPulse)**, an ongoing systems research project studying gray failures in distributed inference with **NVIDIA Triton, HAProxy, fault injection, and request-level telemetry**; reproduced **167.7 ms P99 across 268K+ successful requests**.
+
+* 🎓 **Research-to-Production AI** — Productionizing InstructKG-backed educational AI across **Canvas, PairLearn, and [Illinois Chat](https://chat.illinois.edu/)**, integrating LTI course context, PostgreSQL interaction capture, Neo4j-backed graph processing, CI/CD, and validation for student/instructor feedback workflows.
+
+* 🧰 **Open Source Developer Tooling** — Core contributor to **[Agentic Awesome Skills](https://github.com/sickn33/agentic-awesome-skills)**, contributing Node.js/TypeScript/Python tooling, contributor-validation automation, metadata/catalog checks, GitHub Actions, risk/hazard tagging, and distributed NoSQL guidance.
 
 ---
 
 ### 🛠️ Full-Spectrum Tech Stack
 
-| Category | Icons / Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="sql" width="30"/> |
-| **Frontend & Mobile** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="30"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="30"/> |
-| **Backend & Data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="30"/> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30"/> |
-| **Advanced Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="30"/> |
-| **DevOps & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30"/> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="30"/> |
-| **AI/ML & Workflow** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30"/> |
+#### Languages
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,dart,kotlin&theme=dark" alt="Languages" />
+</p>
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IanJ332&theme=transparent&hide_border=true" alt="Ian's Streak" />
+#### Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,graphql,flask,postman&theme=dark" alt="Backend and APIs" />
+</p>
+
+#### Data & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,cassandra,supabase,dynamodb&theme=dark" alt="Data and Databases" />
+</p>
+
+#### Cloud & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,jenkins,githubactions,linux,git&theme=dark" alt="Cloud and Infrastructure" />
+</p>
+
+#### AI / ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and Machine Learning" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA" title="NVIDIA Triton / NVIDIA AI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" title="Transformers / Hugging Face"/>
+</p>
+
+#### Frontend & Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,vite&theme=dark" alt="Frontend and Mobile" />
 </p>
 
 ---
 
-<div align="center">
+### 🚀 Selected Projects
 
-### I'd love for everyone to connect with me! Or feel free to discuss any projects with me. Once again, I'm incredibly grateful to all the friends who've helped me along the way!
-  
-</div>
+| Project                                                                               | Focus                                                                                                     | Stack                                                    |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- |
+| **[Agentic Awesome Skills](https://github.com/sickn33/agentic-awesome-skills)**       | AI developer tooling, reusable agent skills, contributor-validation automation, and open-source workflows | TypeScript · Node.js · Python · GitHub Actions           |
+| **[GrayPulse](https://github.com/IanJ332/GrayPulse)**                                 | Distributed inference reliability, gray failures, tail latency, fault injection, and reproducibility      | Python · NVIDIA Triton · HAProxy · Telemetry             |
+| **[Lite-MSA-Stream](https://github.com/IanJ332/Lite-MSA-Stream)**                     | CPU-only real-time multimodal inference                                                                   | FastAPI · WebSockets · PyTorch · ONNX Runtime · ASR      |
+| **[Cloud Data Platform](https://github.com/IanJ332/cs_498_data_management_in_cloud)** | Cloud data pipeline and analytical query architecture over 20M+ rows                                      | Python · MongoDB · BigQuery · Flask · Docker · Cloud Run |
+
+---
+
+### 🔬 Current Interests
+
+I'm particularly interested in **backend and distributed systems, AI infrastructure, model serving, retrieval systems, inference reliability, and production AI applications**.
+
+I enjoy problems where correctness, latency, concurrency, data systems, and AI models meet real users.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IanJ332&theme=transparent&hide_border=true" alt="Ian's GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Always happy to discuss backend systems, AI infrastructure, distributed inference, or open-source tooling.</strong>
+</p>
